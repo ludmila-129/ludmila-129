@@ -1,7 +1,8 @@
 # Hello, World. I'm Ludmila W.
 - BA in Computational Linguistics
 - Spanish as a foreign language tutor
-- Research Assistant in Applied AI and Cognitive Linguistics. 
+- Research Assistant in Applied AI and Cognitive Linguistics
+- Freelance Web Development
 ___
 - 📓 Currently working on EdTech Applications and Educational games
 - 📓 I’m looking for job opportunities in:
@@ -34,3 +35,8 @@ ___
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![spaCy](https://img.shields.io/badge/-spaCy-09A3D5)
+
+**Developement:**
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Notepad++](https://img.shields.io/badge/-Notepad++-90E59A?logo=notepadplusplus&logoColor=black)
