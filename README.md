@@ -11,7 +11,7 @@ ___
    - Data Analysis
    - POST
    - Translation & Education
-   - Gamification & Videogame Developement
+   - Gamification & Videogame Development
 ___
 ### Tools
 
@@ -36,7 +36,7 @@ ___
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![spaCy](https://img.shields.io/badge/-spaCy-09A3D5)
 
-**Developement:**
+**Development:**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/-Notepad++-90E59A?logo=notepadplusplus&logoColor=black)
